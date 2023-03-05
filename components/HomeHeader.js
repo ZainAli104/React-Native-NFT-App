@@ -38,7 +38,7 @@ const HomeHeader = ({ onSearch }) => {
           Hello, Victoria👋
         </Text>
         <Text style={{ fontFamily: FONTS.bold, color: COLORS.white, fontSize: SIZES.large, marginTop: SIZES.base / 2 }}>
-          Let's find a masterpiece
+          Let's find a masterpiece - © Zain Alpha
         </Text>
       </View>
 
